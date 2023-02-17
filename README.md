@@ -1,4 +1,4 @@
-# project_7
+# 종업원 이탈 예측 모델 (IBM HR 데이터를 바탕으로)
 
 
 - 사용 데이터 : IBM HR Analytics Employee Attrition & Performance
